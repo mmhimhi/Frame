@@ -1,0 +1,68 @@
+div{
+	margin: 250px 500px;
+	width:21%;
+	padding: 15px 23px 15px 15px;
+	outline:70px ridge #452410;
+	border: 5px dotted brown;    
+}
+img{
+	border: 5px solid yellow;
+	outline: 5px solid red;
+	width: 100%;
+}
+.birthwish{
+	border:0px;
+	outline: 0px;
+	top: 0;
+	color: yellow;
+	position: absolute;
+}
+
+span{
+	position: relative;
+	left: 50px;
+	top:82px;										 
+	font-family: helvetical;
+	font-size: 15px;
+
+}
+span.birthday{
+	position: relative;
+	left: 30px;
+	top:80px;	
+	font-family: helvetical;
+	font-size: 25px;
+}
+.celebrantname{
+	bottom: 0;
+	color: rgb(0,0,250);
+	position: absolute;
+	border: 0px;
+	outline: 0px;
+	top:150px;
+	left: 45px;
+	text-shadow: -2px -2px 0px #ffffff;
+	font-weight:bold;
+}
+span.name{
+	font-weight:serif;
+	position: relative;
+	font-size:25px;
+}
+span.jcares{
+	left: 120px;
+}
+
+
+/*jcares*/
+/*img{
+	width: 20%;
+	border: 5px solid yellow;
+	outline: 5px solid red;
+
+}
+div{
+	margin: 50px 150px;
+	outline:50px solid #373536;
+	border: 5px dotted brown;	
+}*/
